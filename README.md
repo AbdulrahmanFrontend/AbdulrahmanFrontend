@@ -2,7 +2,7 @@
 
 **📍 Egypt | ✉️ [abdulrahman.abdelstar@gmail.com](mailto:abdulrahman.abdelstar@gmail.com)**  
 
-🚀 Frontend Developer Enthusiast | HTML & CSS Specialist | Deepening JavaScript Knowledge | Exploring React.js
+🚀 Frontend Developer Enthusiast | HTML & CSS Specialist | learning JavaScript | Exploring React.js
 
 ## 🛠️ Core Skills
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
