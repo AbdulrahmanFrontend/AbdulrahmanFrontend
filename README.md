@@ -24,7 +24,6 @@
 |--------|---------|------|
 | **Profile Stats** | [![Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanFrontend&show_icons=true&theme=radical)](https://github.com/AbdulrahmanFrontend) | [View Profile](https://github.com/AbdulrahmanFrontend) |
 | **Top Languages** | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanFrontend&layout=compact&theme=radical)](https://github.com/AbdulrahmanFrontend?tab=repositories) | [View Repos](https://github.com/AbdulrahmanFrontend?tab=repositories) |
-| **Commit Streak** | [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanFrontend&theme=radical)](https://git.io/streak-stats) | [More Stats](https://git.io/streak-stats) |
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/abdulrahman-abdelstar-935213371)
