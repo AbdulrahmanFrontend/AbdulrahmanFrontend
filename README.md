@@ -14,10 +14,10 @@
 ## 🔥 Featured Projects
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
-| **[Portfolio](https://github.com/AbdulrahmanFrontend/AbdulrahmanFrontend.github.io)** | Professional showcase | HTML, CSS, JS | [Live](https://abdulrahmanfrontend.github.io) |
-| **[Dragon Repeller RPG](https://github.com/AbdulrahmanFrontend/js-text-rpg)** | Text-based adventure game | Vanilla JS | [Play](https://abdulrahmanfrontend.github.io/js-text-rpg) |
+| **[Portfolio](https://github.com/AbdulrahmanFrontend/AbdulrahmanFrontend.github.io)** | Professional showcase | HTML, CSS | [Live](https://abdulrahmanfrontend.github.io) |
+| **[Dragon Repeller RPG](https://github.com/AbdulrahmanFrontend/js-text-rpg)** | Text-based adventure game | HTML, CSS, JS | [Play](https://abdulrahmanfrontend.github.io/js-text-rpg) |
 | **[Calorie Tracker](https://github.com/AbdulrahmanFrontend/fcc-calorie-counter)** | Nutrition monitoring tool | HTML, CSS, JS | [Try](https://abdulrahmanfrontend.github.io/fcc-calorie-counter/) |
-| **[Color Changer](https://github.com/AbdulrahmanFrontend/random-dark-colors)** | Interactive background color tool | Vanilla JS | [Demo](https://abdulrahmanfrontend.github.io/random-dark-colors/) |
+| **[Color Changer](https://github.com/AbdulrahmanFrontend/random-dark-colors)** | Interactive background color tool | HTML, CSS, JS | [Demo](https://abdulrahmanfrontend.github.io/random-dark-colors/) |
 
 ## 📊 GitHub Analytics
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanFrontend&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
