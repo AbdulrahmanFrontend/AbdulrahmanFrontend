@@ -14,7 +14,7 @@
 ## 🔥 Featured Projects
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
-| **[Portfolio](https://abdulrahmanfrontend.github.io)** | Professional showcase | HTML, CSS, JS | [Live](https://abdulrahmanfrontend.github.io) |
+| **[Portfolio](https://github.com/AbdulrahmanFrontend/AbdulrahmanFrontend.github.io)** | Professional showcase | HTML, CSS, JS | [Live](https://abdulrahmanfrontend.github.io) |
 | **[Dragon Repeller RPG](https://github.com/AbdulrahmanFrontend/js-text-rpg)** | Text-based adventure game | Vanilla JS | [Play](https://abdulrahmanfrontend.github.io/js-text-rpg) |
 | **[Calorie Tracker](https://github.com/AbdulrahmanFrontend/fcc-calorie-counter)** | Nutrition monitoring tool | HTML, CSS, JS | [Try](https://abdulrahmanfrontend.github.io/fcc-calorie-counter/) |
 | **[Color Changer](https://github.com/AbdulrahmanFrontend/random-dark-colors)** | Interactive background color tool | Vanilla JS | [Demo](https://abdulrahmanfrontend.github.io/random-dark-colors/) |
