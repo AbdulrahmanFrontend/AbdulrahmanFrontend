@@ -20,8 +20,11 @@
 | **[Color Changer](https://github.com/AbdulrahmanFrontend/random-dark-colors)** | Interactive background color tool | HTML, CSS, JS | [Demo](https://abdulrahmanfrontend.github.io/random-dark-colors/) |
 
 ## 📊 GitHub Analytics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanFrontend&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanFrontend&layout=compact&theme=radical&hide_border=true&langs_count=8)
+| Metric | Preview | Link |
+|--------|---------|------|
+| **Profile Stats** | [![Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanFrontend&show_icons=true&theme=radical)](https://github.com/AbdulrahmanFrontend) | [View Profile](https://github.com/AbdulrahmanFrontend) |
+| **Top Languages** | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanFrontend&layout=compact&theme=radical)](https://github.com/AbdulrahmanFrontend?tab=repositories) | [View Repos](https://github.com/AbdulrahmanFrontend?tab=repositories) |
+| **Commit Streak** | [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanFrontend&theme=radical)](https://git.io/streak-stats) | [More Stats](https://git.io/streak-stats) |
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/abdulrahman-abdelstar-935213371)
