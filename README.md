@@ -25,28 +25,28 @@ I'm a passionate learner and frontend developer currently focused on building my
 ## 🛠️ Technologies I'm Working With
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/default.asp)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 
 ### Programming
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanFrontend&show_icons=true&theme=radical&hide_border=true)
+[![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanFrontend&show_icons=true&theme=radical&hide_border=true)](https://github.com/AbdulrahmanFrontend)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanFrontend&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanFrontend&layout=compact&theme=radical&hide_border=true)](https://github.com/AbdulrahmanFrontend)
 
 </div>
 
@@ -98,6 +98,6 @@ I'm documenting my learning journey through practical projects. Each project hel
 
 <div align="center">
   
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐-1EAEDB.svg)
+[![Thanks for visiting!](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐-1EAEDB.svg)](https://github.com/AbdulrahmanFrontend)
 
 </div>
