@@ -43,5 +43,5 @@ Welcome to my professional repository showcasing my C++ and C# desktop applicati
 ---
 
 ## Contact
-- LinkedIn: [www.linkedin.com/in/abdulrahman-abdelstar-935213371]
-- GitHub: [https://abdulrahmanfrontend.github.io/]
+- LinkedIn: [www.linkedin.com/in/abdulrahman-abdelstar-935213371](www.linkedin.com/in/abdulrahman-abdelstar-935213371)
+- GitHub: [https://www.frontendmentor.io/profile/AbdulrahmanFrontend](https://www.frontendmentor.io/profile/AbdulrahmanFrontend)
