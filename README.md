@@ -1,47 +1,46 @@
-# Abdulrahman Frontend & Desktop Projects
+# Abdulrahman | Desktop & Systems Developer
 
-Welcome to my professional repository showcasing my C++ and C# desktop application projects. This repository contains my key projects demonstrating strong programming fundamentals, problem-solving skills, and real-world application design.
-
----
-
-## Featured Projects
-
-### 1. C++ Core Libraries & Applications Suite
-- Custom Data Structures: Linked List, Stack, Queue, Dynamic Array
-- Utility Classes: String and Date Handling
-- Real-world Console Applications: Undo/Redo System, Queue Simulation
-- GitHub: [cpp-core-libraries-and-apps](https://github.com/AbdulrahmanFrontend/cpp-core-libraries-and-apps)
-
-### 2. Clinic Management System (C# WinForms)
-- Patient records, appointments, billing management
-- CRUD operations, SQL Server integration
-- User-friendly interface
-- GitHub: [ClinicManager.WinForms](https://github.com/AbdulrahmanFrontend/ClinicManager.WinForms)
-
-### 3. Bank Management System (C++ CLI)
-- Bank account management and transactions
-- OOP and modular design
-- Real-world business logic simulation
-- GitHub: [bank-management-system-cpp](https://github.com/AbdulrahmanFrontend/bank-management-system-cpp)
+Welcome to my GitHub profile.  
+I am a **Desktop Application Developer** focusing on **C++** and **C# WinForms**, with strong foundations in **OOP**, **data structures**, and **real-world business systems**.
 
 ---
 
-## Skills Demonstrated
-- C++ & C# programming
+## 🚀 Featured Projects
+
+### 🏥 Clinic Management System (C# WinForms)
+- Full desktop system for clinic workflows
+- Patients, doctors, appointments, payments
+- Layered architecture with SQL Server
+- GitHub: [https://github.com/AbdulrahmanFrontend/ClinicManager.WinForms](https://github.com/AbdulrahmanFrontend/ClinicManager.WinForms)
+
+### 🏦 Bank Management System (C++ CLI)
+- Console-based banking simulation
+- Account handling and transactions
+- Clean OOP design
+- GitHub: [https://github.com/AbdulrahmanFrontend/bank-management-system-cpp](https://github.com/AbdulrahmanFrontend/bank-management-system-cpp)
+
+### 🧩 C++ Core Libraries & Applications
+- Custom data structures
+- Utility classes (String, Date)
+- Practical console applications
+- GitHub: [https://github.com/AbdulrahmanFrontend/cpp-core-libraries-and-apps](https://github.com/AbdulrahmanFrontend/cpp-core-libraries-and-apps)
+---
+
+## 🛠 Skills
+- C++ / C#
+- Object-Oriented Programming
 - Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Event-driven and console application development
-- SQL Server and database interaction
+- Desktop Application Development
+- SQL Server & ADO.NET
 
 ---
 
-## Future Work
-- Desktop Quiz/Exam App for freelancing
-- Improving GUI for Bank and Clinic Systems
-- Expanding C++ Core Libraries with advanced algorithms
+## 📌 Current Focus
+- Building real-world desktop systems
+- Preparing for junior developer roles
+- Freelancing with small-to-medium business systems
 
 ---
 
-## Contact
-- LinkedIn: [www.linkedin.com/in/abdulrahman-abdelstar-935213371](www.linkedin.com/in/abdulrahman-abdelstar-935213371)
-- GitHub: [https://www.frontendmentor.io/profile/AbdulrahmanFrontend](https://www.frontendmentor.io/profile/AbdulrahmanFrontend)
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/abdulrahman-abdelstar-935213371
