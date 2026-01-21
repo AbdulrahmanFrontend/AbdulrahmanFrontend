@@ -1,7 +1,7 @@
 # Abdulrahman | Desktop & Systems Developer
 
 Welcome to my GitHub profile.  
-I am a **Desktop Application Developer** focusing on **C++** and **C# WinForms**, with strong foundations in **OOP**, **data structures**, and **real-world business systems**.
+I am a **Desktop Application Developer** focusing on **C# WinForms & .Net Framework**, with strong foundations in **OOP**, **data structures**, and **real-world business systems**.
 
 ---
 
