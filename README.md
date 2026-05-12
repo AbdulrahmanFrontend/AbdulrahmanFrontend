@@ -96,4 +96,4 @@ Currently focused on:
 
 - LinkedIn: [www.linkedin.com/in/abdulrahman-nasser-935213371]
 - Email: [abdulrahman.abdelstar@gmail.com]
-- Phone: [+20 1558392471\+20 1158279956]
+- Phone: [+20 1558392471/+20 1158279956]
