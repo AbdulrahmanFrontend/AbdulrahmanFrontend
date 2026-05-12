@@ -78,6 +78,7 @@ Reusable C++ utility library focused on clean architecture and reusable componen
 C# | .NET Framework | WinForms | SQL Server
 ADO.NET | T-SQL | C++ | OOP
 Git | GitHub
+```
 
 ---
 
