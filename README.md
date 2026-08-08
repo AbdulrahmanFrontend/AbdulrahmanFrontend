@@ -10,7 +10,7 @@ freelance clients and a growing focus on ASP.NET Core and EF Core.
   Clean Architecture (Repository/Unit of Work, Service Layer). Database
   and core infrastructure complete; People Management module in active
   testing.
-- **[StorePilot](https://github.com/AbdulrahmanFrontend/StorePilot)** — Retail management system for a plumbing supply client,
+- **StorePilot** — Retail management system for a plumbing supply client,
   redesigned from lessons learned on my first client delivery (decimal
   currency handling, soft-cancel data integrity, unified invoice model).
 - **[DevToolkit](https://github.com/AbdulrahmanFrontend/DevToolkit)** — Reusable .NET library (data access abstraction, result
@@ -18,17 +18,17 @@ freelance clients and a growing focus on ASP.NET Core and EF Core.
 
 ## Delivered
 
-- **[AutoParts Pro](https://github.com/AbdulrahmanFrontend/AutoParts-Pro)** — Spare parts management system (POS, inventory, credit
+- **AutoParts Pro** — Spare parts management system (POS, inventory, credit
   sales, suppliers, cash tracking) delivered to a real automotive shop
   client. Windows installer with automatic database initialization.
-- **[SmartExam WinForms](https://github.com/AbdulrahmanFrontend/smart-exam-winforms)** — Desktop examination system with real-time
+- **SmartExam WinForms** — Desktop examination system with real-time
   result processing and print-ready reports, delivered to a personal-use
   client. Originally started as a 3-developer team project; I completed
   and finalized it independently after the team disbanded.
 
 ## Team Leadership
 
-- **[StoresManager](https://github.com/AbdulrahmanFrontend/StoresManager)** — Warehouse management system for a real client, built
+- **StoresManager** — Warehouse management system for a real client, built
   with a 3-developer team I led: architecture, task distribution, code
   review, and coding standards. Backend and database layers substantially
   built; currently paused.
