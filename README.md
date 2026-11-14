@@ -1,54 +1,32 @@
 # Hi, I'm Abdulrahman Nasser 👋
 
-.NET Back-End Developer building business management systems in C#,
-WinForms, and ADO.NET — with production delivery experience for real
-freelance clients and a growing focus on ASP.NET Core and EF Core.
+**Junior .NET Backend Developer** focused on building business applications and backend systems with C# and .NET.
 
-## Currently Building
+I work with ASP.NET Core Web API, Entity Framework Core, SQL Server, SQLite, and ADO.NET. I also have experience building desktop applications and integrating backend services with modern frontend technologies.
 
-- **[DVLD-Enterprise-System](https://github.com/AbdulrahmanFrontend/DVLD-Enterprise-System)** — Driving license management system on
-  Clean Architecture (Repository/Unit of Work, Service Layer). Database
-  and core infrastructure complete; People Management module in active
-  testing.
-- **StorePilot** — Retail management system for a plumbing supply client,
-  redesigned from lessons learned on my first client delivery (decimal
-  currency handling, soft-cancel data integrity, unified invoice model).
-- **[DevToolkit](https://github.com/AbdulrahmanFrontend/DevToolkit)** — Reusable .NET library (data access abstraction, result
-  pattern, validation, logging) shared across my desktop projects.
+## Featured Projects
 
-## Delivered
+### StorePilot
+A retail management system for a plumbing supplies business. The project is being rebuilt using ASP.NET Core Web API, EF Core, SQLite, React, and TypeScript. The backend foundation and initial frontend integration are in progress.
 
-- **AutoParts Pro** — Spare parts management system (POS, inventory, credit
-  sales, suppliers, cash tracking) delivered to a real automotive shop
-  client. Windows installer with automatic database initialization.
-- **SmartExam WinForms** — Desktop examination system with real-time
-  result processing and print-ready reports, delivered to a personal-use
-  client. Originally started as a 3-developer team project; I completed
-  and finalized it independently after the team disbanded.
+### AutoParts Pro
+A spare parts management application built with C#, .NET Framework, WinForms, ADO.NET, and SQLite. Developed and delivered for a real client.
 
-## Team Leadership
+### [DVLD Enterprise](https://github.com/AbdulrahmanFrontend/DVLD-Enterprise-System)
+A driving license management system. The backend development uses ASP.NET Core Web API, EF Core, SQL Server, and Clean Architecture.
 
-- **StoresManager** — Warehouse management system for a real client, built
-  with a 3-developer team I led: architecture, task distribution, code
-  review, and coding standards. Backend and database layers substantially
-  built; currently paused.
+### [DevToolkit](https://github.com/AbdulrahmanFrontend/DevToolkit)
+A reusable .NET library developed to share common components and infrastructure across desktop applications.
 
-## Foundation Projects
+## Technical Skills
 
-- **ClinicManager.WinForms** — Clinic desktop system (patients, doctors,
-  appointments, payments) — my first SQL Server + ADO.NET project.
-- **C++ Core Libraries & Bank Management System** — Data structures and
-  OOP fundamentals built before moving into .NET.
-
-## Currently Learning
-
-ASP.NET Core Web API · EF Core · async/await · React fundamentals
-
-## Stack
-
-`C#` `.NET Framework` `WinForms` `ADO.NET` `SQL Server` `SQLite` `T-SQL`
+- **Languages:** C#, SQL, T-SQL, JavaScript, TypeScript
+- **Backend:** .NET, ASP.NET Core Web API, Entity Framework Core, ADO.NET
+- **Databases:** SQL Server, SQLite
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, GitHub, Visual Studio
 
 ## Connect
 
-- LinkedIn: [abdulrahman-abdelstar-935213371](https://www.linkedin.com/in/abdulrahman-abdelstar-935213371)
-- Email: abdulrahman.abdelstar@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdulrahman-abdelstar-935213371)
+- **Email:** [abdulrahman.abdelstar@gmail.com](mailto:abdulrahman.abdelstar@gmail.com)
