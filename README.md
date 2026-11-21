@@ -12,9 +12,6 @@ A retail management system for a plumbing supplies business. The project is bein
 ### AutoParts Pro
 A spare parts management application built with C#, .NET Framework, WinForms, ADO.NET, and SQLite. Developed and delivered for a real client.
 
-### [DVLD Enterprise](https://github.com/AbdulrahmanFrontend/DVLD-Enterprise-System)
-A driving license management system. The backend development uses ASP.NET Core Web API, EF Core, SQL Server, and Clean Architecture.
-
 ### [DevToolkit](https://github.com/AbdulrahmanFrontend/DevToolkit)
 A reusable .NET library developed to share common components and infrastructure across desktop applications.
 
